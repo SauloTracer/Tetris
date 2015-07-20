@@ -1,0 +1,3 @@
+Main-Class: tetris.Tetris
+Name: tetris/Tetris.class
+Java-Bean: True
